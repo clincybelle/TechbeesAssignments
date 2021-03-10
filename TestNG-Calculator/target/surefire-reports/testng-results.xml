@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T22:04:02Z" name="com.maven.junit.TestCalculator" finished-at="2021-03-10T22:04:02Z" duration-ms="29">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T22:04:02Z" name="Command line test" finished-at="2021-03-10T22:04:02Z" duration-ms="29">
+      <class name="com.maven.junit.TestCalculator">
+        <test-method signature="testdiv()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testdiv" finished-at="2021-03-10T16:04:02Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdiv -->
+        <test-method signature="testdiv1()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testdiv1" finished-at="2021-03-10T16:04:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdiv1 -->
+        <test-method signature="testmul()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testmul" finished-at="2021-03-10T16:04:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmul -->
+        <test-method signature="testsub()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testsub" finished-at="2021-03-10T16:04:02Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsub -->
+        <test-method signature="testsub2()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testsub2" finished-at="2021-03-10T16:04:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsub2 -->
+        <test-method signature="testsum()[pri:0, instance:com.maven.junit.TestCalculator@233fe9b6]" started-at="2021-03-10T16:04:02Z" name="testsum" finished-at="2021-03-10T16:04:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsum -->
+      </class> <!-- com.maven.junit.TestCalculator -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.maven.junit.TestCalculator -->
+</testng-results>
